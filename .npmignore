@@ -1,0 +1,11 @@
+# D:/Projects/POC/create-react-native/.npmignore
+
+# Exclude dependencies
+/node_modules
+
+# Exclude system files
+.DS_Store
+Thumbs.db
+
+# Exclude log files
+npm-debug.log*
