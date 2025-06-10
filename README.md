@@ -1,10 +1,19 @@
 # Create React Native Bare Template
 
+
+
 ![NPM Version](https://img.shields.io/npm/v/create-react-native-template) ![NPM Downloads](https://img.shields.io/npm/dm/create-react-native-template) ![License](https://img.shields.io/npm/l/create-react-native-template)
 
 The fastest way to start a new React Native project configured with the **Bare Workflow** and out-of-the-box **web support**.
 
 This command-line tool is designed for developers who want to bypass the interactive prompts and immediately generate a clean, production-ready project structure.
+
+## Usage
+
+Getting started is as simple as running one command in your terminal. Replace `YourAwesomeApp` with the name of your project.
+
+```bash
+npx create-react-native-template YourAwesomeApp
 
 ## Why Use This Tool?
 
@@ -25,9 +34,3 @@ To use this tool, you must have [Node.js](https://nodejs.org/) installed on your
 
 ---
 
-## Usage
-
-Getting started is as simple as running one command in your terminal. Replace `YourAwesomeApp` with the name of your project.
-
-```bash
-npx create-react-native-template YourAwesomeApp
