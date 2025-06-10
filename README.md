@@ -15,6 +15,8 @@ Getting started is as simple as running one command in your terminal. Replace `Y
 ```bash
 npx create-react-native-template YourAwesomeApp
 
+```
+
 ## Why Use This Tool?
 
 The standard `create-expo-app` is fantastic, but it requires you to manually select a template. This tool automates that process for a specific, common use case: starting a project where you know you'll need access to the native `android` and `ios` directories.
