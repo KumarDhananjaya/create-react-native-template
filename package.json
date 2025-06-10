@@ -1,6 +1,6 @@
 {
   "name": "create-react-native-template",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A fast CLI to scaffold a bare-minimum React Native Expo project with web support.",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "web"
   ],
   "author": "Kumar Dhananjaya",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^9.4.1"
